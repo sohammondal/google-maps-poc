@@ -1,0 +1,7 @@
+.bus-routes a {
+  text-decoration: none;
+}
+
+.bus-routes * {
+  transition: all 1s ease-in-out;
+}
